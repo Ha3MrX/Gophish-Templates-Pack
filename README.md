@@ -1,5 +1,4 @@
 <p align="center">
-    <b><a href="https://cutt.ly/RGSecurityTeam" style="text-decoration:none">RGSecurityTeam</a></b><br><br>
   <img src="https://raw.githubusercontent.com/gophish/gophish/master/static/images/gophish_purple.png" alt="GoPhish logo" />
 </p>
 
